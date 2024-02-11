@@ -30,6 +30,6 @@ Before you begin, make sure you have the following:
 
 ## Video Tutorial
 **Ready to Dive In? Watch the Full Tutorial Now!**
-[Video link](https://youtu.be/7VcigQTsTCU)
+[Video link](https://youtu.be/7xyoJIqQ8HE)
 
 👉 Don't Forget to Subscribe, Like, and Share!
